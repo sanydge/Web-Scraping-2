@@ -20,3 +20,4 @@ class DealsSpider(scrapy.Spider):
                 'price': product_price,
                 'promotion': promotion_ends
             }
+            
